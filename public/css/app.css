@@ -1,0 +1,40 @@
+.custom-login{
+    height: 500px;
+    padding-top: 100px;
+}
+.custom-rental{
+    height: 500px
+}
+.slider-img {
+    margin: 0 auto;
+}
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.45);   
+    position: relative;
+    left: 0;
+    top: 0;
+}
+.trending-img{
+    height: 100px;
+}
+.trending-itm{
+    float:left;
+    width:20%;
+}
+.trending-wrap{
+    margin: 30px;
+}
+.carousel-indicators {
+    bottom: 0px;
+}
+.detail-img {
+    height: 300px;
+}
+.search{
+   width: 200px !important; 
+}
+.cartspace{
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
